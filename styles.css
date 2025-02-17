@@ -1,0 +1,17 @@
+/* styles.css */
+/*File name of the File styles.css.txt to styles.css*/
+body {
+    background: lightblue;
+    text-align: center; /* font size to font-size */
+    font-family: Arial, sans-serif; /* font size to font-size */
+}
+
+h1 {
+    font-size: 24px;/* font size to font-size */
+    color: blue; /* no semi column ;*/
+}
+
+.message {
+    font-weight: bold; /* no semi column ;*/
+    color: red;
+}
