@@ -1,0 +1,17 @@
+/* styles.css */
+/* Error: Incorrect file extension name*/
+body {
+    background: lightblue;
+    text-align: center; /* Error 1: 'text align' should be 'text-align' (hyphen required) */
+    font-family: Arial, sans-serif; /* Error 2: 'font family' should be 'font-family' (hyphen required) */
+}
+
+h1 {
+    font-size: 24px; /* Error 3: 'font size' should be 'font-size' (hyphen required) */
+    color: blue; /* Error 4: Missing semicolon at the end of the line */
+}
+
+.message {
+    font-weight: bold; /* Error 5: Missing semicolon at the end of the line */
+    color: red; /* Error 6: Missing semicolon at the end of the line */
+}
